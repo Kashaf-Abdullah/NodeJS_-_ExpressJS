@@ -1,0 +1,33 @@
+What are the URL Parameters(Query String)?
+
+URL Parameter are peiece of information located in the query string of a URL.The query String is the portionof the URL that follows a question mark.
+For example 
+domain.com/shoes?type=sneakers
+
+      
+domain.com/shoes?type=sneaker&sort=price_ascending
+
+?  ==> query string start from here
+type ==> variable name or key
+sneakers==>value
+& parameter seperator
+
+
+
+
+//send dynamic data just add
+  response.render('about',{
+        name:'kashaf'
+    })
+
+    and the file where you sending this==> write {{name}}
+
+
+but here in QUERY String
+
+  response.render('about',{
+        name:req.query.name
+    })
+
+//will run these filed with
+nodemon src/index.js -e js,hbs

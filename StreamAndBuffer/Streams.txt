@@ -1,0 +1,23 @@
+NODE.JS STREAMS
+
+
+Streams are objects that let you read data from a source or write data to a destination in continous fashion .In Node.js ,There are four types of Streams
+
+Streaming means listening to music or watching video in 'real-time',instead pf downloading a file to your computer and watching it later
+
+
+
+READABLE-stream which is used for read operation
+WRITEABLE - Stream which is used for write operation
+DUPLEX- Stream which can be used for read and write operation
+TRANSFORM- Atype of duplex stream where the output is computed based on input
+...............................................................................................................................
+
+Each type of Stream is an EventEmitter instance and throws several events at different instance of times.
+For example
+some of the commonly used events are
+
+DATA- this event is fired when the data is unavailable to read
+END- This event is fired when there is no more data to read
+ERROR- This event is fired when there is anu recieving or writing data
+FINISH- This event is fired when all the data has been flushed to underlying system

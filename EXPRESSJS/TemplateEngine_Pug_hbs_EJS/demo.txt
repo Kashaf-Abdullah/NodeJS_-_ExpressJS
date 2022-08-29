@@ -1,0 +1,17 @@
+Using template engine enables you to use static template files in your application.At runtime, the template engine replaces variable in a template file with actual
+values , and tansform the template into an HTML file sent to the client . This approach make it easier to desgin an HTML page
+
+
+
+Some popular template engine that work with Express are Pug , Mustachr and EJS . The Ecpress application generator uses Jade as its default , but it also several others
+Pug 
+Handlebars  ==>hbs(Express.js view engine for handlebars)  --->npm i hbs
+Because of template engine you can fetch and get dynamic content using EXPRESS/NODE
+
+
+template engine folder "view"
+//packages install
+npm  i hbs
+
+//must make directory (folder) "views"(if you write view or anything else so it will give give you error)
+then in view folder make any file index.hbs(extension should be .hbs)

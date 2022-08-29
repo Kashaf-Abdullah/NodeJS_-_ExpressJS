@@ -1,0 +1,5 @@
+consider module to be the same as javascript libraries .A set of function you want to include in your application
+
+Node.js has a set of built-in modules which you can use without any further installation
+
+//if you want to extra functionalities or power in nodejs so we add module in Nodejs

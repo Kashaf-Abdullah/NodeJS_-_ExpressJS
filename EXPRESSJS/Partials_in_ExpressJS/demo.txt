@@ -1,0 +1,7 @@
+//first we make 2 new folders in templates 
+1.partials
+2.views(in view folder all template engines files)
+
+
+//will run these filed with
+nodemon src/index.js -e js,hbs

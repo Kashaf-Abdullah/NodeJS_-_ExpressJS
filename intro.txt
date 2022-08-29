@@ -1,0 +1,17 @@
+NODEJS is a javascript runtime built on Chrome's V8 Javascript engine
+
+nodejs is nothing but it is just javascript running on server before we run javascript on browser .  
+In nodejs ,we can create our own server
+
+Nodejs is a javascript running on server
+
+A runtime environment is where your program will be executed. JavaScript code may be executed in one of two runtime environments:
+
+a browser’s runtime environment
+the Node runtime environment
+
+
+Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+Nodejs is not library,framework
+
+V8 is the name of the JavaScript engine that powers Google Chrome. It's the thing that takes our JavaScript and executes it while browsing with Chrome. V8 is the JavaScript engine i.e. it parses and executes JavaScript code.

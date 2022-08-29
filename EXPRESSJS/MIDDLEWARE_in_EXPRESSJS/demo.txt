@@ -1,0 +1,8 @@
+SERVING static files in EXPRESS
+
+To server file sich as images ,CSSS files and javasscript files,use the express.static built -n middleware
+function in EXPRESS
+
+The function signature is
+express.static(root,[options])
+

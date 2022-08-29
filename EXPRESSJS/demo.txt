@@ -1,0 +1,15 @@
+EXPRESS.JS is a NODEJS framework . It's the nost popular frameowrk as of now (the most stared on NPM)
+
+
+EXPRESSJS is a web application framework that provides you with a simple API to build websites, web apps and back ends
+
+
+
+WHY DO WE ACTUALLY NEED EXPRESSJS ? HOW IT IS USEFUL FOR US TO USE WITH NODEJS?
+
+Try to write a small REST API server in plain with Nodejs*that is ,only core modules) and tthen in EXPRESSJS.The latter will take you 5-10x less time and lines of code
+
+
+
+//How to run hbs file
+nodemon src/index.js -e js,hbs

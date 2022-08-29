@@ -1,0 +1,8 @@
+just add 
+
+app.get('*',(req,res)=>{
+    res.send('404 error page')
+})
+
+//will run these filed with
+nodemon src/index.js -e js,hbs

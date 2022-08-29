@@ -1,0 +1,5 @@
+NODE.JS STREAMS
+
+stream.pipe() ,the method used to take a readable stream and connect it to a writeable stream
+
+readable.pipe(destination[,options])

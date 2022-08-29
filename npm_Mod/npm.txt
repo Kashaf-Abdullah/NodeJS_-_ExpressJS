@@ -1,0 +1,17 @@
+npm is a package for the javascript programming language
+It is a default package manager for javascript runtime environment Node.js
+
+//initializa npm
+
+
+>npm init-->package.json will create
+//package.lock(json)-->will keep information of depenedencies
+>npm i chalk-->depenedeny create in package-lock.json
+
+
+install nodemon
+check nodemon version
+nodemon -v
+
+
+//now just write nodemon,

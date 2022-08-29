@@ -1,0 +1,19 @@
+To acess web pages of any wev application ,you need a web server.The web srver will handle all the http 
+request for the web application
+
+
+eg:
+IIS is a web server for ASP.NET web application and APache is a web server for PHP or java web appliactions
+
+
+Node.js is provide capabilities to create your own web server whcih will handle HTTO request asynchronously .
+You can use IIS or Apache to run Node.js web application but it is recommended to use Node.js web server
+
+
+
+//HTTP response status code 
+information response (100-199)
+successfull response (200-299)
+Redirects (300-399)
+client errors(400-499)
+srever error(500-599)

@@ -1,0 +1,33 @@
+//like window provide us cmd ,in this nodejs provide REPL
+
+The REPL feature of Node is very useful in experimenting with Node.js code and to debug javascript codes
+
+
+Read-  Read user input,parses the input into javascript data structure ,and store in memory
+
+Eval-  Takes and evaluates the data structure
+
+Print- Prints the result
+
+Loop - Loop the above comment
+
+
+
+REPL
+
+REPL
+1.  js Expression(>4+4)
+2.  use variable(var a='kashaf')
+3.  Multiline code
+4.  use (_) to get the last result(previous result can take)
+5.  we can use editor mode
+
+
+
+HOW TO START REPL
+
+ >write node 
+ >.help -->will give all instructions
+
+ to create new file
+ >type nul > index.js

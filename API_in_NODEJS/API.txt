@@ -1,0 +1,3 @@
+API is an acronym for Application Programming interface
+which is a software intermediary that allow two applications to talk to each other .Each time you use an app like 
+Facebook,send an instant message ,or check the weather on your ,your'e using an API

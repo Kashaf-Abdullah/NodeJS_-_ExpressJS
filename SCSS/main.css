@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-header {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(76, 199, 174);
+}
+
+h1 {
+  color: red;
+  font-size: 10rem;
+  letter-spacing: 5px;
+}
+h1:hover {
+  color: blueviolet;
+}
+
+p {
+  color: rgb(161, 109, 41);
+  font-size: 9rem;
+  letter-spacing: 0.8rem;
+  text-transform: capitalize;
+}/*# sourceMappingURL=main.css.map */
